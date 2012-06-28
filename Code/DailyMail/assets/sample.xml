@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<row>
+		<column dd-group="1of1">
+			<asset template="DMChannelModuleChannelHeader" count="0" />
+		</column>
+	</row>
+	<row>
+		<column dd-group="1of1">
+			<asset template="DMChannelModuleHeadline" />
+		</column>
+	</row>
+	<row>
+		<column dd-group="1of2">
+			<asset template="DMChannelModulePuff" />
+			<asset template="DMChannelModulePuff" />
+			<asset template="DMChannelModulePuff" />
+		</column>
+		<column dd-group="1of2">
+			<asset template="DMChannelModuleTodayInPictures" data="gallery|140|" count="0" />
+		</column>
+	</row>
+	<row>
+		<column dd-group="1of2">
+			<asset template="DMChannelModulePuff" />
+			<asset template="DMChannelModulePuff" />
+			<asset template="DMChannelModulePuff" />
+			<asset template="DMChannelModulePuff" />
+		</column>
+		<column dd-group="1of2">
+			<asset template="DMChannelModulePuff" />
+			<asset template="DMChannelModulePuff" />
+			<asset template="DMChannelModulePuff" />
+			<asset template="DMChannelModulePuff" />
+		</column>
+	</row>
+	<row>
+		<column dd-group="1of1">
+			<asset template="DMChannelModuleWorldNews" data="linkList|11|" count="0" />
+		</column>
+	</row>
+	<row>
+		<column dd-group="1of2">
+			<asset template="DMChannelModulePuff" />
+			<asset template="DMChannelModulePuff" />
+			<asset template="DMChannelModulePuff" />
+			<asset template="DMChannelModulePuff" />
+		</column>
+		<column dd-group="1of2">
+			<asset template="DMChannelModulePuff" />
+			<asset template="DMChannelModulePuff" />
+			<asset template="DMChannelModulePuff" />
+			<asset template="DMChannelModulePuff" />
+		</column>
+	</row>
+	<row>
+		<column dd-group="1of1">
+			<asset template="DMChannelModuleFancyThat" data="gallery|10|" count="0" />
+		</column>
+	</row>
+	<row>
+		<column dd-group="1of2">
+			<asset template="DMChannelModulePuff" />
+			<asset template="DMChannelModulePuff" />
+			<asset template="DMChannelModulePuff" />
+			<asset template="DMChannelModulePuff" />
+		</column>
+		<column dd-group="1of2">
+			<asset template="DMChannelModulePuff" />
+			<asset template="DMChannelModulePuff" />
+			<asset template="DMChannelModulePuff" />
+			<asset template="DMChannelModulePuff" />
+		</column>
+	</row>
+	<row>
+		<column dd-group="1of1">
+			<asset template="DMChannelPollVoteModule" count="0" />
+		</column>
+	</row>
+	<row>
+		<column dd-group="1of1">
+			<asset template="DMChannelModuleChannelPicker" count="0" />
+		</column>
+	</row>
+</page>
