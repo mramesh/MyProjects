@@ -27,7 +27,7 @@ public class Animation {
 
     public synchronized void addFrame(Image image, long duration) {
         totalDuration += duration;
-        frames.add(new AnimFrame(image, totalDuration));
+        // frames.add(new AnimFrame(image, totalDuration));
     }
 
     public synchronized void update(long elapsedTime) {
